@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 29f2ec4105ab24ecb8def1980a35644d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _wallCollision: {instanceID: 0}
+  - _PaddleCollision: {fileID: 8300000, guid: f96a898f5995a4b7a8ac01b5573d32be, type: 3}
+  - _lost: {fileID: 8300000, guid: f96a898f5995a4b7a8ac01b5573d32be, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
